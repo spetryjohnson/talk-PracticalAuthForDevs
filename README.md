@@ -6,3 +6,7 @@ It's never been easier to launch a website or expose services over HTTP. It's al
 
 ## Did you attend my talk (and like it)?
 Check out my other talks on Sessionize: https://sessionize.com/seth-petry-johnson/
+
+## Additional reading about password hashing
+- [Salting a hashed password](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
+- [Attacking hashes using a rainbow table](https://www.techtarget.com/whatis/definition/rainbow-table)
